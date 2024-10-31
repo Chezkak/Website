@@ -1,6 +1,3 @@
-Project for a high school computers class.
----------------------------------------------
-
 CHANGELOG
 
   1.1 (October 29, 2024) 
